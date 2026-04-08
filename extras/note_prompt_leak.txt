@@ -1,1 +1,1 @@
-Em đã test thử cơ chế guardrails của Moni và phát hiện AI bị leak system prompt (System Prompt Injection). Việc này cho thấy hệ thống thiếu an toàn khi user nhập các câu lệnh nằm ngoài kịch bản tài chính.
+Em đã test thử cơ chế guardrails của Moni và phát hiện AI bị leak system prompt (System Prompt Injection). Việc này cho thấy hệ thống thiếu an toàn khi user nhập các câu lệnh nằm ngoài kịch bản tài chính (ví dụ trong prompt_injection_test.jpg).
